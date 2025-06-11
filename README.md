@@ -11,7 +11,7 @@ Welcome to **Debug Café**, where clean code meets clean coffee. This is a respo
 - **React.js** – For dynamic, reusable components.
 - **CSS Modules** – For scoped and themeable styles.
 - **React Icons** – For that sleek, minimal UI flair.
-- **JavaScript (ES6+)** – Naturally.
+- **JavaScript (ES6+)**
 
 ---
 
