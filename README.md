@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ☕ Debug Café – Coffee for Developers
 
 Welcome to **Debug Café**, where clean code meets clean coffee. This is a responsive, developer-centric website built for coders who run on caffeine and passion. Whether you're sipping espresso while fixing bugs or browsing snacks between compile errors, this UI serves up a menu brewed just for you.
@@ -57,3 +58,7 @@ This project was inspired by the idea that **great software is brewed like great
         Start the app:
 
             npm start
+=======
+# Debug-Caf-
+☕☕☕
+>>>>>>> 257751192493e5006174210627df3740132d3026
