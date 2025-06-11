@@ -5,15 +5,6 @@ Welcome to **Debug Café**, where clean code meets clean coffee. This is a respo
 
 ---
 
-## 🚀 Features
-
-- 🔥 **Coffee & Espresso Menu** – Styled just like your code editor: clean, minimal, and functional.
-- 🍪 **Code Snacks** – Because debugging is better with cookies.
-- 📸 **Gallery** – Peek into our photo gallery: from coffee-fueled night shifts to daylight deployments.
-- 🌐 **Responsive Design** – Looks sharp on laptops, tablets, and even your smart fridge.
-- 🎨 **Custom Theme** – Coffee-inspired aesthetic with warm tones and code-friendly contrast.
-
----
 
 ## 📁 Tech Stack
 
