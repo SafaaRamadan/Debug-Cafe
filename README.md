@@ -25,13 +25,6 @@ Welcome to **Debug Café**, where clean code meets clean coffee. This is a respo
 ---
 
 ## 🖼️ Screenshots
-
-> Gallery images, menu items, and theme components are included in the `/constants/images.js`.
-
----
-
-## 📂 Project Structure
-
 ![alt text](image.png)
 ![alt text](image-1.png)
 
