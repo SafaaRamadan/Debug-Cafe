@@ -24,25 +24,6 @@ Welcome to **Debug Café**, where clean code meets clean coffee. This is a respo
 
 ---
 
-## 🖼️ Screenshots
-![alt text](image.png)
-![alt text](image-1.png)
-
-
----
-
-## 💡 Inspiration
-
-This project was inspired by the idea that **great software is brewed like great coffee** – with patience, precision, and strong taste. Built with love for developers who grind.
-
----
-
-## 🛠️ Setup & Run
-
-1. Clone the repo:
-  
-     git clone https://github.com/your-username/debug-cafe.git
-    cd debug-cafe
 
         Install dependencies:
 
@@ -51,7 +32,4 @@ This project was inspired by the idea that **great software is brewed like great
         Start the app:
 
             npm start
-=======
-# Debug-Caf-
-☕☕☕
->>>>>>> 257751192493e5006174210627df3740132d3026
+
